@@ -2,6 +2,6 @@
     "name": "Car Mechanic Emulator",
     "genre": "Simulation",
     "developer": "Green Dot Games",
-    "hours": 12,
+    "energy": 12,
     "achievements": 60
 }
